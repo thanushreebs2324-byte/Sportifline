@@ -1,5 +1,5 @@
 # Sportifline
-This Athlete Management SportifLine App is a one-stop platform designed to streamline competition registration, real-time scoring, fitness tracking, and athlete-coach interactions.
+This Athlete Management SportifLine is a web-based platform is a one-stop platform designed to streamline competition registration, real-time scoring, fitness tracking, and athlete-coach interactions.
 
 #Features
 
